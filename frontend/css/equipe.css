@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../imagens/bg-index.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.aside{
+    margin-top: 5%;
+}
+
+.aside h1.equipe{
+    color: white;
+    font-weight: 300;
+    font-size: 45px;
+}
+
+.aside p.equipe-p{
+    color: rgb(214, 212, 212);
+    width: 400px;
+    margin-bottom: 10%;
+}
+
+.aizen{
+    display: flex;
+}
+
+.position{
+    padding-left: 35px;
+}
+.box-aizen{
+    width: 180px;
+    height: 150px;
+    background: white;
+    position: relative;
+    top: -35px;
+    left: 10px;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+   
+}
+
+h3.aizen{
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+    margin-left: 30px;
+
+}
+
+p.aizen{
+    font-size: 12px;
+    color: tomato;
+    margin-bottom: 5px;
+    margin-left: 55px;
+    
+}
+
+p.aizen-about{
+    font-size: 11px;
+    margin-bottom: 15px;
+}
+
+.fa-github{
+    color: rgb(172, 168, 168);
+
+}
+
+.fa-facebook-square{
+    color: rgb(172, 168, 168);
+}
+
+.fa-arrow-circle-left{
+  
+    float: right;
+    padding-right: 4%;
+    color: white;
+    font-size: 25px;
+    
+}

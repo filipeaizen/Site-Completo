@@ -1,0 +1,60 @@
+# TELA DE LOGIN
+    Usuários - Professores / Padrinhos
+    Usuários - Alunos / Apadrinhados
+
+    #CADASTRO
+        Nome
+        email
+        senha
+        C_senha
+        Button: Cadastrar
+
+    #LOGIN
+        E-mail
+        Senha
+        Button: Logar
+
+        ----------------------------------------------------------------
+
+
+#PAGINA PADRINHOS / Professores
+    Lista de Interesses / Conteudo
+    Lista de alunos
+    - Selecionar o aluno desejado / conteudo 
+    #PAGINAS    
+        Home
+        Conteudo
+            Verifica os alunos inscritos
+        Sala de Aula ( Quantos alunos cada professor tem)
+
+
+#PAGINA DE APADRINHADOS/ Alunos
+    Lista de interesses /Conteudos
+   Selecionar Nivel de Conhecimento 
+    #PAGINA
+    Home
+    conteudo
+        cursos dispioniveis
+
+
+
+#TEMA/CORES
+    Cores frias/ escuras
+        Preto
+        roxo
+        azul
+        verde
+        branco
+        amarelo
+
+
+
+
+
+
+
+        # IDEIAS 
+
+# PARA DEFINIR PADRINHOS E APADRINHADOS 
+    TELA INICIAL SERÁ DOIS AVATARES PROFESSOR / ALUNO
+        AO CLICAR NO AVATAR DESEJADO , ABRE TELA DE LOGIN
