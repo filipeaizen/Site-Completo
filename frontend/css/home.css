@@ -104,7 +104,7 @@ p.content-p{
 a.prof{
    /* background: rgb(243, 103, 236);*/
     border: 1px solid white;
-    padding: 3px 15px;
+    padding: 6px 16px;
     color: #fff;
     cursor: pointer;
     text-decoration: none;
@@ -115,7 +115,7 @@ a.prof{
 a.prof:hover{
     background: rgb(236, 69, 228);
     border: none;
-    padding: 4px 16px;
+    padding: 7px 17px;
 }
 
 
